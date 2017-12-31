@@ -1,6 +1,6 @@
 #This repo contains all the documentation and tutorials regarding Red-DiscordBot
 
-[Open docs](https://dealien.github.io/Red-Magician-Docs/)
+[Open docs](https://dealien.github.io/Red-Docs/)
 
 ##How to add new docs
  * First of all you need to create a `.md` file inside the `red` dir on `gh-pages` branch.
