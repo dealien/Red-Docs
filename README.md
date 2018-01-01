@@ -13,7 +13,7 @@
   permalink: /red_<category>_<topic>/
   ---
 ```
- * Write your doc in github's markdown syntax. There are a bit of jekyll-oriented exceptions, that you have to keep in mind:
+ * Write your doc in GitHub's markdown syntax. There are a bit of jekyll-oriented exceptions, that you have to keep in mind:
    * All the block elements: list lines, code blocks, titles, tables and images should be separated from everything before and after by newlines
    * Title should have one whitespace after `#` symbols. `### Like this`
    * Internal links should start with `/Red-Docs/` and have a trailing `/` like this: `[Example](/Red-Docs/example/)`
