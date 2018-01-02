@@ -1,4 +1,4 @@
-# This repo contains all the documentation and tutorials regarding Red-DiscordBot
+# Documentation and Tutorials For [Red-Magician](https://github.com/dealien/Red-Magician)
 
 [Open docs](https://dealien.github.io/Red-Docs/)
 
