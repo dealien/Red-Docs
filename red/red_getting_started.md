@@ -7,7 +7,7 @@ description: Basic guide about Red's usage
 
 Hello. This a quick start guide to familiarize yourself with using Red.  
 
-If you haven't installed her yet, please do so by following [the guide for your operating system of choice](https://twentysix26.github.io/Red-Docs/) before proceeding.
+If you haven't installed her yet, please do so by following [the guide for your operating system of choice](https://dealien.github.io/Red-Magician-Docs/) before proceeding.
 Assuming you've done everything right (and assuming you're on Windows) you should now have a black command prompt window, a *console*, staring at you.  
 That's Red.  Leave it open if you want the bot to function.
 
@@ -30,7 +30,7 @@ Being a chatbot, Red reacts to commands *in the chat*. Commands are preceded by 
 
 The single command you'll swear by when using Red is `[p]help`. Help will show you the **commands' list** and how to use each one of them.
 
-Issuing only `[p]help` with no additional parameters will show you the **full command list** (in direct message, not to clutter the public chat) of the currently loaded [cogs](https://twentysix26.github.io/Red-Docs/red_getting_started/#cogs).  
+Issuing only `[p]help` with no additional parameters will show you the **full command list** (in direct message, not to clutter the public chat) of the currently loaded [cogs](https://dealien.github.io/Red-Magician-Docs/red_getting_started/#cogs).  
 Pick a command at random and issue:  
 `[p]help commandname`  
 This will explain what the command does and show what parameter it needs (if any).
@@ -53,7 +53,7 @@ You can disable and enable everything you see with the exception of the basic ow
 
 There's an entire [community](https://discord.gg/red) that revolves around contributing to Red. Most of those contributors make additional cogs for you to use.  Technically, taking a cog file and dropping it in the cogs folder would be enough to install it, but we made a downloader (which is a cog itself!) to install and keep up to date 3rd party cogs.  
 
-[Here you can see the list of 3rd party repositories](https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/). But what is a repository anyway? You might want to google the *actual* definition up, but in this context, we can define repositories as **containers of cogs that you can install**.  
+[Here you can see the list of 3rd party repositories](https://dealien.github.io/Red-Magician-Docs/red_cog_approved_repos/). But what is a repository anyway? You might want to google the *actual* definition up, but in this context, we can define repositories as **containers of cogs that you can install**.  
 
 You'll want to familiarize yourself with the downloader (see help and cogs section) but let's guide you through a sample installation. Say that we're interested in the first repository of the list, `26-Cogs`. Specifically, in the `trigger` cog that it contains. Let's copy and paste the command from the list:  
 

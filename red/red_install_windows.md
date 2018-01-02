@@ -50,11 +50,11 @@ You'll find the option 'Update pip' in the 'Update' submenu" type="info" %}
 
 Having completed the previous steps, Red should be good to go. Go back to the main menu and pick the **Run Red** option.
 
-You will be prompted for a token. Make a new bot user by following the ["Creating a new bot account"](/Red-Docs/red_guide_bot_accounts/#creating-a-new-bot-account) section.  
+You will be prompted for a token. Make a new bot user by following the ["Creating a new bot account"](/Red-Magician-Docs/red_guide_bot_accounts/#creating-a-new-bot-account) section.  
 
 Complete the configuration process. You'll be able to invite your bot to your server by using the invite link that's provided at boot.
 
-Consult the [Getting started](/Red-Docs/red_getting_started/) page for a practical guide on familiarizing yourself with Red.
+Consult the [Getting started](/Red-Magician-Docs/red_getting_started/) page for a practical guide on familiarizing yourself with Red.
 
 {% include tip.html content="<br/>The launcher will create 2 batch files: **start_red.bat** and **start_red_autostart.bat**. You can use those to start
 Red directly without passing through the launcher." type="info" %}

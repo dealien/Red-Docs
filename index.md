@@ -4,43 +4,39 @@ sidebar: red_sidebar
 type: homepage
 ---
 
-[<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/red)
-
-Red is in continuous development and new features get added all the time. Stay tuned by [joining the official server](https://discord.gg/red)!
-
 ## Installation
 
 ### Windows
 
-* [Installing Red](/Red-Docs/red_install_windows/)
+* [Installing Red](/Red-Magician-Docs/red_install_windows/)
 
 ### Linux
 
-* [Linux Installation Guides](/Red-Docs/red_install_linux/)
+* [Linux Installation Guides](/Red-Magician-Docs/red_install_linux/)
 
-* [Autorestarting](/Red-Docs/red_guide_linux_autostart/)
+* [Autorestarting](/Red-Magician-Docs/red_guide_linux_autostart/)
 
 ### Mac
 
-* [How to install on Mac](/Red-Docs/red_install_mac/)
+* [How to install on Mac](/Red-Magician-Docs/red_install_mac/)
 
 ## How to use
 
-* [Getting started](/Red-Docs/red_getting_started)
+* [Getting started](/Red-Magician-Docs/red_getting_started)
 
-* [FAQs](/Red-Docs/red_faq)
+* [FAQs](/Red-Magician-Docs/red_faq)
 
-* [Some general tips](/Red-Docs/red_general_tips)
+* [Some general tips](/Red-Magician-Docs/red_general_tips)
 
-* [Command list](/Red-Docs/red_commands/)
+* [Command list](/Red-Magician-Docs/red_commands/)
 
-* [Audio module](/Red-Docs/red_audio)
+* [Audio module](/Red-Magician-Docs/red_audio)
 
 ## Common issues  
 For installation and general issues:
 
-* [Troubleshooting](/Red-Docs/red_guide_troubleshooting/)
+* [Troubleshooting](/Red-Magician-Docs/red_guide_troubleshooting/)
 
 ## Cogs  
 
-* [Publishing cogs](/Red-Docs/red_cog_how_to_publish/)
+* [Publishing cogs](/Red-Magician-Docs/red_cog_how_to_publish/)

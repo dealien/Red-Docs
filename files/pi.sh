@@ -51,4 +51,4 @@ sudo pip3 install -U git+https://github.com/Rapptz/discord.py@master#egg=discord
 sudo rm -rf ~/redinstall
 echo "HORAAY!"
 echo "You're done, you can now clone Red by following Step 3 of the installation here:"
-echo "https://twentysix26.github.io/Red-Docs/red_install_raspbian/"
+echo "https://dealien.github.io/Red-Magician-Docs/red_install_raspbian/"
