@@ -38,13 +38,13 @@ Other available commands:
 `sudo restart red`
 
 ### systemd
-This guide assumes you used the Linux guide to install Red **and that your Linux distribution uses systemd** (Example: Ubuntu 15.04 or newer).
+_This guide assumes you used the Linux guide to install Red **and that your Linux distribution uses systemd** (Example: Ubuntu 15.04 or newer)._
 
 Run this command in terminal:
 
 `sudo nano /etc/systemd/system/red.service`
 
-Next, paste the following script, replace, `username` with your linux account name and `usergroup` with your user's group (usually the same as the username, but you can check with `groups username` in the terminal.)
+Next, paste the following script, replace, `USERNAME` with your Linux account name and `USERGROUP` with your user's group (usually the same as the username, but you can check with `groups username` in the terminal.)
 
 ```
 [Unit]
@@ -52,8 +52,8 @@ Description=Red-DiscordBot
 After=multi-user.target
 [Service]
 WorkingDirectory=/home/username/Red-DiscordBot
-User=username
-Group=usergroup
+User=USERNAME
+Group=USERGROUP
 ExecStart=/usr/bin/python3.5 /home/username/Red-DiscordBot/red.py --no-prompt
 Type=idle
 Restart=always
