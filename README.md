@@ -3,9 +3,10 @@
 [Open docs](https://dealien.github.io/Red-Docs/)
 
 ## How to add new docs
- * First of all you need to create a `.md` file inside the `red` dir on `gh-pages` branch.
+
+ * First of all, you need to create a `.md` file inside the `red` directory on the `gh-pages` branch.
  * Naming convention is as follows: `red_<category>_<topic>.md`. It's not strict, but please, follow it as much as possible.
- * Add a front matter header based off this template:
+ * Add a front matter header based off this template:<a name="front-matter"></a>
 ```
   ---
   title: <your_title>
