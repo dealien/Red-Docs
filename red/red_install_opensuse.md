@@ -38,7 +38,7 @@ From there select ``Install requirements`` and select 1 or 2
 
 ## Creating a bot account
 
-Follow the guide [here](/Red-Docs/red_guide_bot_accounts/#creating-a-new-bot-account)
+Follow the guide [here](/Red-Magician-Docs/red_guide_bot_accounts/#creating-a-new-bot-account)
 
 ## Running the bot
 

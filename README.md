@@ -1,6 +1,6 @@
 # Documentation and Tutorials For [Red-Magician](https://github.com/dealien/Red-Magician)
 
-[Open docs](https://dealien.github.io/Red-Docs/)
+[Open docs](https://dealien.github.io/Red-Magician-Docs/)
 
 ## Adding New Docs
 In order to ensure uniformity within the documentation, you __MUST__ follow these steps when creating new docs. 
@@ -23,7 +23,7 @@ In order to ensure uniformity within the documentation, you __MUST__ follow thes
  * Write your doc in GitHub's markdown syntax. Note that there are a few of jekyll-oriented exceptions, that you have to keep in mind:
    * All the block elements (each line in a list, code blocks, titles, tables, and images) should be separated from everything before and after by newlines
    * Title should have one whitespace after `#` symbols. `### Like this`
-   * Internal links should start with `/Red-Docs/` and have a trailing `/` like this: `[Example](/Red-Docs/example/)`
+   * Internal links should start with `/Red-Magician-Docs/` and have a trailing `/` like this: `[Example](/Red-Magician-Docs/example/)`
 
 #### Categorization & The Sidebar
  * To add your doc to the sidebar, you need to add it to [`_data/sidebars/red_sidebar.yaml`](../blob/gh-pages/_data/sidebars/red_sidebar.yaml). 

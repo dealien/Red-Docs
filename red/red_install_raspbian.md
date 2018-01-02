@@ -20,7 +20,7 @@ To acquire and run the script. you must transfer it to your server with sftp or 
 for the sake of simplicity we will use ``wget``
 
 ```
-wget https://twentysix26.github.io/Red-Docs/files/pi.sh
+wget https://dealien.github.io/Red-Magician-Docs/files/pi.sh
 sudo chmod +x pi.sh
 ```
 

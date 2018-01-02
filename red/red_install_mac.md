@@ -57,11 +57,11 @@ Guide originally made by orels1
 
 * You can now run Red from the launcher's main menu
 
-* Complete the initial setup. During the setup, you will be asked to enter a token. Get one [here](https://discordapp.com/developers/applications/me). If you get stuck, follow the [bot accounts](/Red-Docs/red_guide_bot_accounts) guide.
+* Complete the initial setup. During the setup, you will be asked to enter a token. Get one [here](https://discordapp.com/developers/applications/me). If you get stuck, follow the [bot accounts](/Red-Magician-Docs/red_guide_bot_accounts) guide.
 
 * To invite your bot, use the link given to you in the Terminal when Red has been started.
 
-* Consider consulting the [Getting started](/Red-Docs/red_getting_started/) page for a practical guide on familiarizing yourself with Red.
+* Consider consulting the [Getting started](/Red-Magician-Docs/red_getting_started/) page for a practical guide on familiarizing yourself with Red.
 
 {% include tip.html content="<br/>The launcher will create 2 scripts: **start_red.command** and **start_red_autostart.command**. You can use those to start
 Red directly without passing through the launcher." type="info" %}
