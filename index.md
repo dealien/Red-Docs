@@ -9,16 +9,9 @@ type: homepage
 ### Windows
 
 * [Windows Installation Guide](/Red-Magician-Docs/red_install_windows/)
-
-### Linux
-
 * [Linux Installation Guides](/Red-Magician-Docs/red_install_linux/)
-
-* [Autorestarting](/Red-Magician-Docs/red_guide_linux_autostart/)
-
-### Mac
-
 * [Mac Installation Guide](/Red-Magician-Docs/red_install_mac/)
+* [Autorestarting on Linux](/Red-Magician-Docs/red_guide_linux_autostart/)
 
 ## How to use
 
