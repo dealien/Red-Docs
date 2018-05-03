@@ -1,5 +1,5 @@
 ---
-title: Red - Discord Bot documentation
+title: Red Magician Documentation
 sidebar: red_sidebar
 type: homepage
 ---
@@ -8,7 +8,7 @@ type: homepage
 
 ### Windows
 
-* [Installing Red](/Red-Magician-Docs/red_install_windows/)
+* [Windows Installation Guide](/Red-Magician-Docs/red_install_windows/)
 
 ### Linux
 
@@ -18,7 +18,7 @@ type: homepage
 
 ### Mac
 
-* [How to install on Mac](/Red-Magician-Docs/red_install_mac/)
+* [Mac Installation Guide](/Red-Magician-Docs/red_install_mac/)
 
 ## How to use
 
@@ -26,11 +26,11 @@ type: homepage
 
 * [FAQs](/Red-Magician-Docs/red_faq)
 
-* [Some general tips](/Red-Magician-Docs/red_general_tips)
+* [Tips](/Red-Magician-Docs/red_general_tips)
 
-* [Command list](/Red-Magician-Docs/red_commands/)
+* [Commands](/Red-Magician-Docs/red_commands/)
 
-* [Audio module](/Red-Magician-Docs/red_audio)
+* [Audio Module](/Red-Magician-Docs/red_audio)
 
 ## Common issues  
 For installation and general issues:
@@ -39,4 +39,4 @@ For installation and general issues:
 
 ## Cogs  
 
-* [Publishing cogs](/Red-Magician-Docs/red_cog_how_to_publish/)
+* [Publishing Custom Cogs](/Red-Magician-Docs/red_cog_how_to_publish/)
