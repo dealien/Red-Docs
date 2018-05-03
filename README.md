@@ -6,7 +6,7 @@
 In order to ensure uniformity within the documentation, you __MUST__ follow these steps when creating new docs. 
 
 #### File Name
- * First of all, you need to create a new markdown (`.md`) file inside [`/red`](../tree/gh-pages/red) on the `gh-pages` branch.
+ * First of all, you need to create a new markdown (`.md`) file inside [`/red`](https://github.com/dealien/Red-Magician-Docs/tree/gh-pages/red) on the `gh-pages` branch.
    * The name of this new file should be `red_<category>_<topic>.md`.
 
 #### Front Matter
